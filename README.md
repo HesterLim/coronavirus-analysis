@@ -18,3 +18,8 @@ This dataset has daily level information on the number of affected cases, deaths
 - We can also observe that the number of confirmed cases is directly proportional to number of death patients and  the number of confirmed cases is directly proportional to the number of recovered patients. 
 - Early data shows that the percentage of recovered patients(1.89%) are less than the percentage of deaths among the confirmed cases(2.28%).
 
+## References:
+- https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+- https://www.cdc.gov/coronavirus/2019-ncov/about/index.html
+- https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true#
+- https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
