@@ -10,6 +10,8 @@ Johns Hopkins University has made an excellent dashboard using the affected case
 ## Content
 This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus (2019 Novel Coronavirus (2019-nCoV) is a virus (more specifically, a coronavirus)).The data is available from 22 Jan 2020.
 
+## Note:
+- The work should be checked again to make sure the number is correct
 
 ## References:
 - https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
